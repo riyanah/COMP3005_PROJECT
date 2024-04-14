@@ -1,5 +1,3 @@
--- Create the tables for the Health and Fitness Club Management System
-
 -- Members table
 CREATE TABLE IF NOT EXISTS members (
     id SERIAL PRIMARY KEY,

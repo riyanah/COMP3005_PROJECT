@@ -1,6 +1,6 @@
-# COMP3005_A3
+# COMP3005_PROJECT
 
-COMP3005 A3 Student Database
+COMP3005 Fitness Club Management System
 
 ## Video Demonstration Link
 
@@ -22,8 +22,8 @@ What things you need to install the software and how to install them:
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/riyanah/COMP3005_A3.git
-cd COMP3005_A3
+git clone https://github.com/riyanah/COMP3005_PROJECT.git
+cd COMP3005_PROJECT
 ```
 
 #### Set Up the Database
@@ -33,7 +33,7 @@ Then run the scripts in the a3.sql file to set up your PostgreSQL database.
 Replace DB_USER and DB_NAME with your PostgreSQL username and the name of your database, respectively.
 
 ```python
-DB_NAME = "A3"
+DB_NAME = "FitnessClubManagementSystem"
 DB_USER = "user2"
 DB_PASSWORD = "postgres"
 DB_HOST = "localhost"
@@ -56,7 +56,5 @@ pip install psycopg2-binary
 Then to run the program:
 
 ```bash
-python3 a3.py
+python3 cli.py
 ```
-
-Then test the CRUD functionality by uncommenting the lines needed.
