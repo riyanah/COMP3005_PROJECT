@@ -4,9 +4,9 @@ COMP3005 Fitness Club Management System
 
 ## Video Demonstration Link
 
-[Click here](https://youtu.be/WTXzhKB9XFc) to view the video demonstration of the application. The video showcases the functionality of the application, including database operations and the effects of those operations.
+[Click here](https://youtu.be/t8LIHYilFsQ) to view the video demonstration of the application. The video showcases the functionality of the application, including database operations and the effects of those operations.
 
-https://youtu.be/WTXzhKB9XFc
+https://youtu.be/t8LIHYilFsQ
 
 ### Prerequisites
 
